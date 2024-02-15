@@ -1,18 +1,36 @@
 # **TechConnect**
-<br>O projeto TechConnect é uma iniciativa voltada para a oferta de peças de computador e produtos de informática, com o objetivo de proporcionar uma experiência de compra simplificada e confiável para entusiastas de tecnologia. A missão da TechConnect vai além das transações comerciais, buscando construir uma comunidade apaixonada em torno da plataforma, onde a excelência no atendimento ao cliente e a entrega de produtos de alta qualidade são prioridades. TechConnect pretende ser mais do que um ponto de venda, mas um ecossistema onde a inovação encontra a acessibilidade, convidando os clientes a explorarem, aprenderem e prosperarem.
+<br>O projeto TechConnect é uma iniciativa de e-commerce voltada para a oferta de peças de computador e produtos de informática, com o objetivo de proporcionar uma experiência de compra simplificada e confiável para entusiastas de tecnologia. A missão da TechConnect busca construir uma comunidade apaixonada em torno da plataforma, onde a qualidade no atendimento ao cliente e a entrega de produtos sejão a prioridades. TechConnect pretende ser uma inovação na area com seu diferencial.
 
 
 
 ## Requisitos Funcionais
 
-- ### _Navegação e busca:_
+- ### _Efetuar cadastro_
+-Criação de conta com e-mail, senha e informações pessoais.   
+-Opção de cadastro com CNPJ para empresas.   
+-Endereço de entrega e cobrança.
+
+- ### _Efetuar login_
+-Autenticação via e-mail e senha.   
+-Lembrar senha.   
+-Esqueci minha senha.
+
+- ### _Cadastrar produto_
+-Criação de item para venda.   
+-Foto do produto (opcional).   
+-Preço do item.   
+-Descrição do item.     
+
+
+
+- ### _Navegar:_
 
 -Busca por produtos por nome, categoria, marca, etc.    
 -Navegação por categorias e subcategorias.     
 -Filtros de busca por preço, cor, tamanho, etc.   
 -Sugestões de produtos relevantes.
 
-- ###  _Detalhes do produto:_
+- ###  _Detalhar produto:_
 
 -Fotos do produto em alta resolução.  
 -Descrição completa do produto.   
@@ -20,7 +38,7 @@
 -Avaliações de outros clientes.  
 -Comparação com produtos similares.
 
-- ### _Carrinho de compras:_
+- ### _Adicionar ao carrinho:_
 
 -Adição e remoção de produtos.   
 -Cálculo automático de frete e impostos.   
@@ -28,13 +46,13 @@
 -Sugestões de produtos complementares.   
 
 
-- ###  _Pagamento:_
+- ###  _Finalizar Pagamento:_
 
 -Diversas opções de pagamento (cartão de crédito, -boleto,  pix, etc.).     
 -Segurança de dados.   
 -Parcelamento em até X vezes.   
 
-- ###  _Finalização da compra:_
+- ###  _Finalizar compra:_
 
 -Confirmação do pedido.   
 -Rastreamento do pedido.   
@@ -42,13 +60,7 @@
 -Suporte ao cliente.  
 
 
-- ### _Funcionalidades adicionais:_
-
--Lista de desejos.      
--Salvar produtos para compra futura.   
--Compartilhar lista de desejos com amigos.
-
-- ### _Atendimento ao cliente:_
+- ### _Ajudar cliente_
 
 -Chat online.   
 -FAQ.   
