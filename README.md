@@ -5,15 +5,21 @@
 
 ## Requisitos Funcionais
 
-- _cadastrar usuário_  
+- _Cadastrar usuário_  
+- _Cadastrar vendedor_
 - _Efetuar login_
 - _Editar usuário_  
+- _Editar vendedor_ 
+- _Cadastrar endereço de entrega_     
 - _Excluir usuário_
+- _Excluir vendedor_
 - _Cadastrar produto_
 - _Pesquisar produto_
+- _Filtrar produto_
 - _Visualizar detalhes produto_
 - _Adicionar produto ao carrinho_ 
--  _Finalizar Pagamento_
+- _Retirar produto do carrinho_
+- _Escolher forma Pagamento_
 - _Finalizar compra_
 
 ## Requisitos Não-Funcionais:
