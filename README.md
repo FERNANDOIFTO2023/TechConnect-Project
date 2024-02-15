@@ -5,105 +5,27 @@
 
 ## Requisitos Funcionais
 
-- ### _Efetuar cadastro_
--Criação de conta com e-mail, senha e informações pessoais.   
--Opção de cadastro com CNPJ para empresas.   
--Endereço de entrega e cobrança.
-
-- ### _Efetuar login_
--Autenticação via e-mail e senha.   
--Lembrar senha.   
--Esqueci minha senha.
-
-- ### _Cadastrar produto_
--Criação de item para venda.   
--Foto do produto (opcional).   
--Preço do item.   
--Descrição do item.     
-
-
-
-- ### _Navegar:_
-
--Busca por produtos por nome, categoria, marca, etc.    
--Navegação por categorias e subcategorias.     
--Filtros de busca por preço, cor, tamanho, etc.   
--Sugestões de produtos relevantes.
-
-- ###  _Detalhar produto:_
-
--Fotos do produto em alta resolução.  
--Descrição completa do produto.   
--Especificações técnicas.   
--Avaliações de outros clientes.  
--Comparação com produtos similares.
-
-- ### _Adicionar ao carrinho:_
-
--Adição e remoção de produtos.   
--Cálculo automático de frete e impostos.   
--Cupons de desconto.   
--Sugestões de produtos complementares.   
-
-
-- ###  _Finalizar Pagamento:_
-
--Diversas opções de pagamento (cartão de crédito, -boleto,  pix, etc.).     
--Segurança de dados.   
--Parcelamento em até X vezes.   
-
-- ###  _Finalizar compra:_
-
--Confirmação do pedido.   
--Rastreamento do pedido.   
--Histórico de pedidos.   
--Suporte ao cliente.  
-
-
-- ### _Ajudar cliente_
-
--Chat online.   
--FAQ.   
--E-mail.   
--Telefone.
+- _cadastrar usuário_  
+- _Efetuar login_
+- _Editar usuário_  
+- _Excluir usuário_
+- _Cadastrar produto_
+- _Pesquisar produto_
+- _Visualizar detalhes produto_
+- _Adicionar produto ao carrinho_ 
+-  _Finalizar Pagamento_
+- _Finalizar compra_
 
 ## Requisitos Não-Funcionais:
 
-- ### _Desempenho_:
-
--Tempo de resposta rápido.   
--Alta escalabilidade para lidar com grande volume de tráfego.   
--Disponibilidade 24 horas por dia, 7 dias por semana.
-- ### _Segurança:_
-
--Proteção contra ataques cibernéticos.   
--Criptografia de dados.   
--Segurança de dados de pagamento.
-- ### _Usabilidade:_
-
--Interface amigável e intuitiva.   
--Fácil navegação e busca.   
--Processo de compra simples e rápido.
-- ### _Acessibilidade:_
-
--Acessibilidade para pessoas com deficiência.   
--Compatibilidade com diferentes navegadores e dispositivos.
-- ### _Manutenabilidade:_
-
--Código fácil de entender e manter.   
--Fácil implantação de novas funcionalidades.
-- ### _Escalabilidade:_
-
--Capacidade de aumentar a capacidade do sistema conforme a necessidade.   
--Suporte para um grande número de usuários e produtos.
-- ### _Monitoramento:_
-
--Monitoramento de desempenho e segurança do sistema.   
--Identificação e resolução de problemas rapidamente.
-- ### _Testes:_
-
--Testes rigorosos de software para garantir a qualidade do sistema.   
--Testes de carga para garantir a escalabilidade do sistema.
+- _Desempenho_
+- _Segurança_
+- _Usabilidade_
+- _Acessibilidade_
+- _Manutenabilidade_
+- _Escalabilidade_
+- _Monitoramento_
+- _Testes_
 ## E-Commerce´s  semelhantes:
 
 - [KaBuM!](https://www.kabum.com.br/?gad_source=1&gclid=CjwKCAiAibeuBhAAEiwAiXBoJOOElEnvcos7dsGd9B582G49vK1zHc39EyeRXXVzn09oytGOJnW5khoCCjkQAvD_BwE)
