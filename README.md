@@ -11,8 +11,11 @@
 - _Cadastrar usuário_  
 - _Cadastrar vendedor_
 - _Efetuar login_
-- _Editar usuário_  
+- _Efetuar logoff_  
+- _Editar usuário_
+- _Visualizar dados do usuário_    
 - _Editar vendedor_ 
+- _Visualizar dados do vendedor_  
 - _Cadastrar endereço de entrega_     
 - _Desativar usuário_
 - _Desativar vendedor_
