@@ -5,10 +5,9 @@
 <p> O projeto TechConnect é uma iniciativa de e-commerce voltada para a oferta de peças de computador e produtos de informática, com o objetivo de proporcionar uma experiência de compra simplificada e confiável para entusiastas de tecnologia.
 
 # Nossa missão: 
- - _Oferecer uma experiência de compra descomplicada e segura_<img src="/assets/img/escudo.png">
+ - _Oferecer uma experiência de compra descomplicada e segura_ <img src="/assets/img/escudo.png">
 
- - _Construir uma comunidade apaixonada_
-<img src="/assets/img/icon2pequeno.png">
+ - _Construir uma comunidade apaixonada_ <img src="/assets/img/icon2pequeno.png">
 
 
 
