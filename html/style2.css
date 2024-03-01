@@ -2,6 +2,20 @@
     font-family: 'poppins', sans-serif;
 }
 
+:root{
+    --bg-color: var(--bg-color) #1d2631;
+    --text-color: #fff;
+    --main-color: #08961f;
+    --other-color: #fcfcfc;
+    --h1-font: 3rem;
+    --p-font: 1rem;
+}
+
+body{
+    background-color: #1d2631;
+    color: var(--text-color);
+}
+
 nav{
     background: white;
     width: 380px;
