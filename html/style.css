@@ -12,6 +12,7 @@ nav > a:hover{
     transition: 0.35s;
     background: #08961f;
     color: white;
+
 }
 
 .form-inline{
@@ -32,5 +33,9 @@ nav > a:hover{
 }
 
 .navegação{
+}
+
+.nav-bar{
     display: flex;
+    width: 100%; 
 }
