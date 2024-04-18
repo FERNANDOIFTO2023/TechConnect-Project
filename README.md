@@ -47,12 +47,10 @@
 
 > - _Desempenho_
 > - _Segurança_
-> - _Usabilidade_
 > - _Acessibilidade_
 > - _Manutenabilidade_
 > - _Escalabilidade_
 > - _Monitoramento_
-> - _Testes_
 # E-Commerce semelhantes:
 
 - [KaBuM!](https://www.kabum.com.br/?gad_source=1&gclid=CjwKCAiAibeuBhAAEiwAiXBoJOOElEnvcos7dsGd9B582G49vK1zHc39EyeRXXVzn09oytGOJnW5khoCCjkQAvD_BwE)
